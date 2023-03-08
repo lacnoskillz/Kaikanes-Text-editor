@@ -1,6 +1,6 @@
 # Kaikanes-Text-editor
 ***
-To run my text editor make sure to install all packages. `npm i`. (check package.json for the list and visit  (https://www.npmjs.com/) for ducumentation. ) This app is a simple text editor that functions in the browser using IndexedDB and cacheing allowing the use without internet! Simply enter or delete content into the text editor then click anywhere off of the editor to automatically save it. You can also click the Install button to download the app as an icon on your desktop. 
+To run my text editor make sure to install all packages. `npm i`. (check package.json for the list and visit  (https://www.npmjs.com/) for ducumentation. ) This app is a simple text editor that functions in the browser using IndexedDB and cacheing allowing the use without internet! Simply enter or delete content into the text editor then click anywhere off of the editor to automatically save it. You can also click the Install button to download the app as an icon on your desktop. `npm run start` to run application from command line.
 
 ## Usage
 ***
